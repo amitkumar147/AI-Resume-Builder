@@ -18,8 +18,7 @@ This tool lets users **write details → auto-generate resume → preview → do
 ---
 
 ## 🖥️ Live Demo  
-👉 *(Add GitHub Pages Link After Upload)*  
-`https://your-username.github.io/ai-resume-builder`
+👉 *(https://amitkumar147.github.io/AI-Resume-Builder/)*
 
 ---
 

@@ -22,7 +22,5 @@ This tool lets users **write details → auto-generate resume → preview → do
 
 ---
 
-## 📸 Screenshots  
-> Add your screenshots here inside `/assets/screens/`
-
-Example:
+## 📸 App Screenshots  
+![Resume Preview] (IMG-20251123-WA0000.png)

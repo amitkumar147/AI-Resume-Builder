@@ -23,4 +23,4 @@ This tool lets users **write details → auto-generate resume → preview → do
 ---
 
 ## 📸 App Screenshots  
-![Resume Preview] (IMG-20251123-WA0000.png)
+![Resume Preview](IMG-20251123-WA0000.jpg)
